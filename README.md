@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: I die laughing at videos of people falling to the ground
 
+
+Comitando pela primeira vez por linha de comando
